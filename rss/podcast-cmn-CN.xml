@@ -1002,5 +1002,17 @@ MySgProp 房地产中文播客，为您带来第一手的市场分析、政策�
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item>
-	</channel>
+	
+		<item>
+			<title><![CDATA[[S26E39 市场脉搏] 房产周报 03-09 Aug 2026：HDB政策大松绑与新盘国庆折扣战]]></title>
+			<description><![CDATA[本期房产周报带您深度解析2026年8月3日至9日的市场风云。重点关注政策大地震：私宅业主购买转售组屋的等待期正式取消，且旧房集体出售（Enbloc）门槛下调，将如何影响业主收益？在土地竞标方面，探讨洪业与国可联手拿下Berlayar Drive地块的深层含义。同时，新盘迎来国庆折扣大战，SORA与One Sophia最高优惠达10万新币，顶级豪宅Greenbank Park亦有新动向。此外，我们还挖掘了勿洛水库极具潜力的行政洋房（EM）以及新山RTS站旁的酒店投资机遇。市场变局之下，真正的财富机会在哪里？]]></description>
+			<pubDate>Fri, 14 Aug 2026 03:16:58 GMT</pubDate>
+			<enclosure
+				url="https://podcast.mysgprop.com/audio/cmn-CN/2026-08-11_Weekly_Update_cmn-CN.mp3"
+				length="2988442"
+				type="audio/mpeg"
+			/>
+			<guid isPermaLink="false">https://podcast.mysgprop.com/episode/cmn-CN/S26E39</guid>
+		</item>
+</channel>
 </rss>
